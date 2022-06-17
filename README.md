@@ -8,4 +8,5 @@ pip install -r requirement.txt
 ## Image classification 
 
 image_classification/train_LogPert.py      # Sample-level Logit Perturbation
+
 image_classification/train_MixPert.py      # Mixed Positive and Negative Perturbation
