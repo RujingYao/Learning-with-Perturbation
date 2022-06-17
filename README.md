@@ -5,7 +5,7 @@ This is the code for Learning with Perturbation: Taxonomy and Algorithms.
 
     pip install -r requirement.txt
     
-### ***Image classification***  
+## Image classification 
 
 
 + 2.1 Parameters  
